@@ -1,0 +1,9 @@
+1. HTML (HyperText Markup Language) is the standard markup language used to create the structure and content of web pages. It consists of various elements and tags that define the layout and elements on a webpage.
+
+2. CSS (Cascading Style Sheets) is a style sheet language used to control the presentation and layout of HTML documents. It allows developers to specify how web pages should look and format elements such as colors, fonts, margins, and positioning.
+
+3. Responsive design is an approach to web design that aims to create websites that adapt and respond to different screen sizes and devices, providing an optimal viewing experience for users on desktops, tablets, and mobile devices.
+
+4. A CSS preprocessor is a scripting language that extends the capabilities of regular CSS. It allows developers to use variables, nested rules, functions, and other advanced features, making it easier to write and maintain CSS code.
+
+5. A version control system (VCS) is a tool used to track and manage changes to source code and other files. It enables collaboration among developers, keeps a history of changes, and allows for easy branching and merging of code. Git is an example of this. I use it very often
